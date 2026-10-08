@@ -26,6 +26,3 @@ Python standard library modules, including:
 | Text & time | `re`, `datetime`, `string` |
 | Command-line tools | `argparse`, `logging` |
 
-## 📈 GitHub Stats
-
-![Sourena's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default)
