@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Sourena Rezakhani 👋
 
-<!--
-**SourenaRezakhani/SourenaRezakhani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Python developer** who enjoys writing clean code and learning by building things.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐍 Currently learning the **Python standard library** in depth
+- 🔧 Comfortable with **Git** for version control and **Docker** for containerized workflows
+- 🌱 Building small projects and exercises to practice what I learn
+- 🎯 Looking to grow as a developer and contribute to real-world projects
+
+## 🛠️ Skills & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+## 📚 Currently Learning
+
+Python standard library modules, including:
+
+| Area | Modules |
+|------|---------|
+| File system & OS | `os`, `sys`, `pathlib`, `shutil` |
+| Data handling | `json`, `csv`, `collections`, `itertools` |
+| Text & time | `re`, `datetime`, `string` |
+| Command-line tools | `argparse`, `logging` |
+
+## 📈 GitHub Stats
+
+![Sourena's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default)
